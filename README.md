@@ -5,4 +5,4 @@ What I learned:
 - Taking user input with the `input()` function.
 - Implementing basic input validation.
 
-- 
+- i
