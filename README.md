@@ -5,4 +5,4 @@ What I learned:
 - Taking user input with the `input()` function.
 - Implementing basic input validation.
 
-- i
+-The Hangman Game is a Python script that allows users to play a text-based hangman game. The aim of the project is to implement a simple game logic using Python classes and methods. Through this project, we learn about class initialization, methods, and game flow.
